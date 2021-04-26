@@ -1,4 +1,4 @@
-# cryptonomicon
+# cryptonInfo - exampel for Maxim
 
 ## Project setup
 ```
